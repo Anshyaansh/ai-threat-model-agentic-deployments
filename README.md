@@ -221,11 +221,11 @@ remediation roadmap.
 
 ## 👤 Author
 
-**[Your Name]**
-Cybersecurity Researcher | AI Security Specialist
+**Devansh Jaiswal**
+Cybersecurity Analyst | AI Security Learner
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/devansh-jaiswal-45410619b)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Anshyaansh)
 
 ---
 
